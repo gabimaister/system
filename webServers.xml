@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b2104ac-08ab-44a4-8d8f-f1c3e76ee6aa" name="Apartamente" url="http://ftp.apartamente-dobroesti.ro">
+        <fileTransfer host="ftp.apartamente-dobroesti.ro" port="21" rootFolder="/public_html/333">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
