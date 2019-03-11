@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="0e470c5d-3bc9-48f8-b288-419f54d23742" name="Slots-master" url="http://ftp.apartamente-dobroesti.ro">
-        <fileTransfer host="ftp.apartamente-dobroesti.ro" port="21" rootFolder="/master.apartamente-dobroesti.ro">
+        <fileTransfer host="ftp.apartamente-dobroesti.ro" port="21" rootFolder="/master.apartamente-dobroesti.ro/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="21df8bba-2358-4819-ac9d-88eb2109bd00" name="Slots-grafica-sala" url="http://85.204.69.1">
-        <fileTransfer host="85.204.69.1" port="21" rootFolder="/slots.apartamente-dobroesti.ro">
+        <fileTransfer host="85.204.69.1" port="21" rootFolder="/slots.apartamente-dobroesti.ro/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
