@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="21df8bba-2358-4819-ac9d-88eb2109bd00" name="Slots-grafica-sala" url="http://85.204.69.1">
+        <fileTransfer host="85.204.69.1" port="21" rootFolder="/slots.apartamente-dobroesti.ro/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
